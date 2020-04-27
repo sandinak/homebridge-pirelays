@@ -10,22 +10,22 @@
 
     "accessories": [
         {
-            "accessory":      "Switch",
+            "accessory":      "homebridge-pirelays.Switch",
             "name":           "Switch 1",
             "pin": 11
         },
         {
-            "accessory":      "Switch",
+            "accessory":      "homebridge-pirelays.Switch",
             "name":           "Switch 2",
             "pin": 12
         },
         {
-            "accessory":      "Switch",
+            "accessory":      "homebridge-pirelays.Switch",
             "name":           "Switch 3",
             "pin": 13
         },
         {
-            "accessory":      "Switch",
+            "accessory":      "homebridge-pirelays.Switch",
             "name":           "Switch 4",
             "pin": 15
         }
